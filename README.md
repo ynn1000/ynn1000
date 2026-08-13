@@ -65,7 +65,7 @@
 
 ### Currently learning
 
-- 🌐 **Web networking & Protocols** — Deepening my knowledge about web protocols and sniffing using Wireshark and Nmap
+- 🌐 **Web networking & Protocols** — Deepening my knowledge of web protocols and network sniffing using Wireshark and Nmap
 - 🐳 **Docker & containerization** — Learning how to build isolated and standardized environments
 - 🧪 **Offensive security** — SQL Injection, XSS, JWT attacks, Path Traversal and more
 - 🏴‍☠️ **Hands-on practice** — PortSwigger Web Security Academy labs & Hack The Box virtual machines
