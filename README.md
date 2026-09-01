@@ -13,7 +13,7 @@
 ### About me
 
 - 🎓 Computer Science student
-- 💻 Currently building with **NestJS, React and PostgreSQL**
+- 💻 Currently building with **Spring, React and PostgreSQL**
 - 🔐 Interested in **Web Security, AppSec and Pentesting**
 - ☕ I prefer Java and Spring 🍃
 - 🧪 Currently learning more about **backend architecture, testing and security**
