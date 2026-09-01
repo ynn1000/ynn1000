@@ -69,6 +69,7 @@
 - 🐳 **Docker & containerization** — Learning how to build isolated and standardized environments
 - 🧪 **Offensive security** — SQL Injection, XSS, JWT attacks, Path Traversal and more
 - 🏴‍☠️ **Hands-on practice** — PortSwigger Web Security Academy labs & Hack The Box virtual machines
+- 📄 **Undergraduate Research Project** — Developing Spring Boot Application for Excel spreadsheet manipulation and report generation using Apache POI  
 
    
 
