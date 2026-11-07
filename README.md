@@ -65,11 +65,13 @@
 
 ### Currently learning
 
-- 🌐 **Web networking & Protocols** — Deepening my knowledge of web protocols and network sniffing using Wireshark and Nmap
+- 🌐 **Web networking & Protocols** — Deepening my knowledge of web protocols and network analysis using Wireshark and Nmap
 - 🐳 **Docker & containerization** — Learning how to build isolated and standardized environments
 - 🧪 **Offensive security** — SQL Injection, XSS, JWT attacks, Path Traversal and more
 - 🏴‍☠️ **Hands-on practice** — PortSwigger Web Security Academy labs & Hack The Box virtual machines
-- 📄 **Undergraduate Research Project** — Developing Spring Boot Application for Excel spreadsheet manipulation and report generation using Apache POI  
-
+- 🔎 **Real-world reconnaissance** — Practicing asset discovery, enumeration and attack surface analysis on authorized bug bounty targets
+- 🐚 **Bash scripting** — Studying shell scripting, Linux automation and developing practical tools
+- 🤖 **GLaDOS** — Developing a personal assistant project focused on automation and system interaction
+- 📄 **Undergraduate Research Project** — Developing a Spring Boot application for Excel spreadsheet manipulation and report generation using Apache POI
    
 
